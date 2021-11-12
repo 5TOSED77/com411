@@ -1,1 +1,3 @@
 livecables = input()
+print(livecables)
+
