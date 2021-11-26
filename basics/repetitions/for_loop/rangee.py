@@ -8,3 +8,4 @@ for count in range(brightness, 10, 2):
     beepsbrightnesslevel = input()
 
     bopsbrightnesslevel = input()
+
